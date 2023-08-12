@@ -7,5 +7,5 @@ permalink: /
 # To imagine, To `/Film`
 
 <video markdown="0" style="width:100%;" autoplay loop muted> 
-  <source src="video_480p.mp4" type="video/mp4" />
+  <source src="video480p.mp4" type="video/mp4" />
 <video/>
