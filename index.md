@@ -6,4 +6,6 @@ permalink: /
 
 # FLOOR33 Pictures
 
-<video src='temp_video.mp4'> <video/>
+<video autoplay loop muted> 
+  <source src="temp_video.mp4" type="video/mp4" />
+<video/>
